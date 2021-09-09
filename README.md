@@ -1,4 +1,4 @@
-# BrazilianWorkshopPythonForBioData_Zuvanov_etal_2021
+# Brazilian Python Workshop For Biological Data
 
 Repository that harbors notebooks used in the 2020 online edition of the Brazilian Python Workshop for Biological Data.
 
