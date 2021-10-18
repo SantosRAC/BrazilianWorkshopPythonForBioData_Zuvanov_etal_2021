@@ -8,4 +8,4 @@ Webpages of all events since 2018 (Portuguese):
  * In collaboration with the [São Paulo State University](https://btwbd.gitlab.io/sitepythonbiodata2021/) (online edition)
  
 Manuscript under review on PLOS Computational Biology (pcompbiol):
- * Zuvanov et al. "The experience of teaching introductory programming skills to bioscientists in Brazil"
+ * Zuvanov et al. ["The experience of teaching introductory programming skills to bioscientists in Brazil"](https://doi.org/10.1371/journal.pcbi.1009534)
